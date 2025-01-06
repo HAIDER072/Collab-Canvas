@@ -94,9 +94,3 @@ Make sure you have the following installed on your system:
 - **Bug Fixes**:
   - **Search and Favorite Functionality**: Fixed the search and favorite functionality by using `useSearchParams`.
 
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
----
